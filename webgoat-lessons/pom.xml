@@ -43,7 +43,7 @@
             <groupId>org.owasp.webgoat</groupId>
             <artifactId>webgoat-container</artifactId>
             <version>${project.version}</version>
-            <scope>provided</scope>
+            <scope>system</scope>
             <type>jar</type>
         </dependency>
         <dependency>
